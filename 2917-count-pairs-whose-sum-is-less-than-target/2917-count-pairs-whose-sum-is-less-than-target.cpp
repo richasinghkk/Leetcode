@@ -8,6 +8,7 @@ public:
                 if(nums[i]+nums[j]<target){
                     cnt++;
                     
+                    
                 }    
             }
            

@@ -10,43 +10,48 @@
  */
 class Solution {
 public:
-    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        // ListNode*p1=list1;
-        // ListNode*p2=list2;
-        // ListNode*dummy=new ListNode(-1);
-        // ListNode*p3=dummy;
-        // while(p1!=NULL && p2!=NULL){
-        //     if(p1->val<= p2->val){
-        //         p3->next=p2;
-        //         p1=p2->next;
+    ListNode* mergeTwoLists(ListNode*a, ListNode* b) {
+        // ListNode*tempA=a;
+        // ListNode*tempB=b;
+        // ListNode*c=new ListNode(100);
+        // ListNode*tempC=c;
+        // while(tempA!=NULL && tempB!=NULL){
+        //     if(tempA->val<=tempB->val){
+        //         ListNode*t= new ListNode(tempA->val);
+        //         tempC->next=t;
+        //         tempC=t;
+        //         tempA=tempA->next;
         //     }
         //     else{
-        //         p3->next=p2;
-        //         p2=p2->next;
+        //         ListNode*t=new ListNode(tempB->val);
+        //         tempC->next=t;
+        //         tempC=t;
+        //         tempB=tempB->next;
         //     }
-        //     p3=p3->next;
         // }
-        // if(p1!=NULL){
-        //     p3->next=p2;
+        // if(tempA==NULL){
+        //     tempC->next=tempB;
         // }
-        // return dummy->next;
-
-        if (list1 == nullptr) {
-            return list2;
+        // else{
+        //     tempC->next=tempA;
+        // }
+        // return tempC->next;
+        ListNode*c=new ListNode(100);
+        ListNode*temp=c;
+    while(a!=NULL && b!=NULL){
+        if(a->val<=b->val){
+            temp->next=a;
+            a=a->next;
+            temp=temp->next;
         }
-        if (list2 == nullptr) {
-            return list1;
+        else{
+            temp->next=b;
+            b=b->next;
+            temp=temp->next;
         }
-      ListNode* result=nullptr;
-      if(list1->val < list2-> val)
-      {
-        result=list1;
-        result->next=mergeTwoLists(list1->next ,list2);
-      }   
-      else{
-        result=list2;
-        result->next=mergeTwoLists(list1,list2->next);
-      }
-      return result;
+    }
+    if(a==NULL) temp->next=b;
+    else temp->next=a;
+    return c->next;
     }
 };

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/richasinghkk/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/richasinghkk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/richasinghkk/Leetcode/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/richasinghkk/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/richasinghkk/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/richasinghkk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/richasinghkk/Leetcode/tree/master/0283-move-zeroes) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/richasinghkk/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/richasinghkk/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |

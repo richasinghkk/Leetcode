@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/richasinghkk/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/richasinghkk/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/richasinghkk/Leetcode/tree/master/0013-roman-to-integer) |
 | [0441-arranging-coins](https://github.com/richasinghkk/Leetcode/tree/master/0441-arranging-coins) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/richasinghkk/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/richasinghkk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/richasinghkk/Leetcode/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/richasinghkk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/richasinghkk/Leetcode/tree/master/0013-roman-to-integer) |
 | [0812-rotate-string](https://github.com/richasinghkk/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/richasinghkk/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/richasinghkk/Leetcode/tree/master/2580-circular-sentence) |

@@ -1,15 +1,16 @@
 class Solution {
-public:
-    int lengthOfLongestSubstring(string s) {
-        bool ss[128]{};
-        int ans = 0;
-        for (int i = 0, j = 0; j < s.size(); ++j) {
-            while (ss[s[j]]) {
-                ss[s[i++]] = false;
-            }
-            ss[s[j]] = true;
-            ans = max(ans, j - i + 1);
-        }
-        return ans;
+ public:
+  int lengthOfLongestSubstring(string s) {
+    int ans = 0;
+    vector<int> count(128);
+
+    for (int l = 0, r = 0; r < s.length(); ++r) {
+      ++count[s[r]];
+      while (count[s[r]] > 1)
+        --count[s[l++]];
+      ans = max(ans, r - l + 1);
     }
+
+    return ans;
+  }
 };

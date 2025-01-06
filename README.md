@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/richasinghkk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/richasinghkk/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/richasinghkk/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/richasinghkk/Leetcode/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/richasinghkk/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/richasinghkk/Leetcode/tree/master/0812-rotate-string) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/richasinghkk/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/richasinghkk/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

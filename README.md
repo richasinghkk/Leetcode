@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/richasinghkk/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/richasinghkk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/richasinghkk/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/richasinghkk/Leetcode/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/richasinghkk/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/richasinghkk/Leetcode/tree/master/0283-move-zeroes) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/richasinghkk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/richasinghkk/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/richasinghkk/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/richasinghkk/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/richasinghkk/Leetcode/tree/master/0283-move-zeroes) |

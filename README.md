@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/richasinghkk/Leetcode/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/richasinghkk/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/richasinghkk/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/richasinghkk/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/richasinghkk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/richasinghkk/Leetcode/tree/master/2690-house-robber-iv) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/richasinghkk/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/richasinghkk/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/richasinghkk/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/richasinghkk/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/richasinghkk/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/richasinghkk/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/richasinghkk/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/richasinghkk/Leetcode/tree/master/2580-circular-sentence) |
 ## Sliding Window
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/richasinghkk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Graph
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->

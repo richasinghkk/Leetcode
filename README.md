@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1503-reducing-dishes](https://github.com/richasinghkk/Leetcode/tree/master/1503-reducing-dishes) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/richasinghkk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -140,9 +141,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/richasinghkk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/richasinghkk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/richasinghkk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/richasinghkk/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3430-count-days-without-meetings](https://github.com/richasinghkk/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/richasinghkk/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/richasinghkk/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/richasinghkk/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3430-count-days-without-meetings](https://github.com/richasinghkk/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/richasinghkk/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/richasinghkk/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |

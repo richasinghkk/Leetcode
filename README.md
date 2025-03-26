@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/richasinghkk/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/richasinghkk/Leetcode/tree/master/0013-roman-to-integer) |
 | [0441-arranging-coins](https://github.com/richasinghkk/Leetcode/tree/master/0441-arranging-coins) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/richasinghkk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/richasinghkk/Leetcode/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/richasinghkk/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/richasinghkk/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/richasinghkk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/richasinghkk/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/richasinghkk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1503-reducing-dishes](https://github.com/richasinghkk/Leetcode/tree/master/1503-reducing-dishes) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/richasinghkk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/richasinghkk/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/richasinghkk/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3430-count-days-without-meetings](https://github.com/richasinghkk/Leetcode/tree/master/3430-count-days-without-meetings) |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/richasinghkk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/richasinghkk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->

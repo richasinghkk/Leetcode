@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/richasinghkk/Leetcode/tree/master/0013-roman-to-integer) |
 | [0441-arranging-coins](https://github.com/richasinghkk/Leetcode/tree/master/0441-arranging-coins) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/richasinghkk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/richasinghkk/Leetcode/tree/master/2690-house-robber-iv) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/richasinghkk/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/richasinghkk/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/richasinghkk/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/richasinghkk/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/richasinghkk/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/richasinghkk/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/richasinghkk/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/richasinghkk/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/richasinghkk/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/richasinghkk/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/richasinghkk/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1503-reducing-dishes](https://github.com/richasinghkk/Leetcode/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/richasinghkk/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/richasinghkk/Leetcode/tree/master/0020-valid-parentheses) |
+| [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting
 |  |
 | ------- |
@@ -182,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/richasinghkk/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Number Theory
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->

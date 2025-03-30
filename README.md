@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/richasinghkk/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/richasinghkk/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/richasinghkk/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0768-partition-labels](https://github.com/richasinghkk/Leetcode/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/richasinghkk/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/richasinghkk/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/richasinghkk/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/richasinghkk/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/richasinghkk/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/richasinghkk/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0768-partition-labels](https://github.com/richasinghkk/Leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/richasinghkk/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Linked List
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/richasinghkk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/richasinghkk/Leetcode/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/richasinghkk/Leetcode/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/richasinghkk/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/richasinghkk/Leetcode/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/richasinghkk/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/richasinghkk/Leetcode/tree/master/0768-partition-labels) |
 | [1503-reducing-dishes](https://github.com/richasinghkk/Leetcode/tree/master/1503-reducing-dishes) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/richasinghkk/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |

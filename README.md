@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/richasinghkk/Leetcode/tree/master/0441-arranging-coins) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/richasinghkk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/richasinghkk/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/richasinghkk/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/richasinghkk/Leetcode/tree/master/2580-circular-sentence) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/richasinghkk/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/richasinghkk/Leetcode/tree/master/1503-reducing-dishes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/richasinghkk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/richasinghkk/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/richasinghkk/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
 |  |
 | ------- |

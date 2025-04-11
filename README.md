@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/richasinghkk/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0441-arranging-coins](https://github.com/richasinghkk/Leetcode/tree/master/0441-arranging-coins) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/richasinghkk/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2998-count-symmetric-integers](https://github.com/richasinghkk/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/richasinghkk/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Binary Search
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/richasinghkk/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/richasinghkk/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->

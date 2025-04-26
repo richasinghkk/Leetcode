@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/richasinghkk/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/richasinghkk/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/richasinghkk/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/richasinghkk/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/richasinghkk/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/richasinghkk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/richasinghkk/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/richasinghkk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/richasinghkk/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/richasinghkk/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/richasinghkk/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String Matching
@@ -284,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/richasinghkk/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/richasinghkk/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/richasinghkk/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->

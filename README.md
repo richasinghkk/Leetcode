@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/richasinghkk/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/richasinghkk/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0768-partition-labels](https://github.com/richasinghkk/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/richasinghkk/Leetcode/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/richasinghkk/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/richasinghkk/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/richasinghkk/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/richasinghkk/Leetcode/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/richasinghkk/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/richasinghkk/Leetcode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/richasinghkk/Leetcode/tree/master/0868-push-dominoes) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/richasinghkk/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/richasinghkk/Leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/richasinghkk/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/richasinghkk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/richasinghkk/Leetcode/tree/master/0868-push-dominoes) |
 | [1503-reducing-dishes](https://github.com/richasinghkk/Leetcode/tree/master/1503-reducing-dishes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/richasinghkk/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/richasinghkk/Leetcode/tree/master/2262-solving-questions-with-brainpower) |

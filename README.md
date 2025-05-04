@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/richasinghkk/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/richasinghkk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/richasinghkk/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/richasinghkk/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/richasinghkk/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1503-reducing-dishes](https://github.com/richasinghkk/Leetcode/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/richasinghkk/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/richasinghkk/Leetcode/tree/master/0169-majority-element) |
 | [0768-partition-labels](https://github.com/richasinghkk/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/richasinghkk/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/richasinghkk/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/richasinghkk/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/richasinghkk/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/richasinghkk/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/richasinghkk/Leetcode/tree/master/0169-majority-element) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/richasinghkk/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/richasinghkk/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Graph
 |  |

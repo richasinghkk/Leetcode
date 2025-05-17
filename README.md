@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/richasinghkk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/richasinghkk/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/richasinghkk/Leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/richasinghkk/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/richasinghkk/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/richasinghkk/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/richasinghkk/Leetcode/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/richasinghkk/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/richasinghkk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/richasinghkk/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/richasinghkk/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/richasinghkk/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/richasinghkk/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/richasinghkk/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/richasinghkk/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/richasinghkk/Leetcode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/richasinghkk/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1503-reducing-dishes](https://github.com/richasinghkk/Leetcode/tree/master/1503-reducing-dishes) |
